@@ -1,0 +1,7 @@
+ollama
+pyautogui
+pillow
+numpy
+PyQt5
+requests
+opencv-python
